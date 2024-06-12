@@ -1,4 +1,4 @@
-# Extracting-features-of-Khasi-Musical-Instruments
+# Classification-of-Khasi-Musical-Instruments
 
 This repository is primarily for educational purposes, containing the code used by Group #2 of the NEHU B.Tech 2020-24 batch for their final semester project. The project, focused on the classification of Khasi musical instruments, is conducted by the following students:
 
