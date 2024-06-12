@@ -6,16 +6,16 @@ Mebanpynshai Lyngdoh Marshilong (21BtechLECE07)
 Moirangthem Bhorot Singh (20BTechECE)
 Yongyo HM (21BtechLECE01)
 
-##Project Overview
+## Project Overview
 The primary aim of this project is to bring Khasi musical instruments into the technological realm, a domain where they have been largely overlooked. By analyzing and classifying these instruments, we hope to promote their rich cultural heritage and encourage further academic and technological exploration.
 
-##Datasets
+## Datasets
 Due to an agreement with the Department of Culture and Creative, NEHU Shillong, the datasets used in this project are not included in this repository. We invite interested students to enhance this work by collecting more datasets of Khasi musical instruments and contributing innovative ideas to further refine and improve the project.
 
-##Contributions
+## Contributions
 We encourage contributions that can expand the scope and depth of this project. If you have new data, algorithms, or other improvements, please feel free to fork this repository and submit a pull request.
 
-##Future Work
+## Future Work
 This project is a foundational step towards integrating Khasi musical instruments with modern technology. We hope that it will inspire future research and development efforts. Potential areas for future work include:
 
 -> Expanding the dataset with more diverse and comprehensive samples.
