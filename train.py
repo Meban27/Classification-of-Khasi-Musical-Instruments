@@ -78,7 +78,7 @@ def main():
     df['Instrument_mapping'] = df['Instrument'].map(instrument_mapping)
     
     # Save the DataFrame to an Excel file,you can use csv or database
-    df.to_excel('name/your/excel', index=False)
+    df.to_excel('Khasi_mapped_Train', index=False)
 
 if __name__ == '__main__':
     main()
